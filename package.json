@@ -1,0 +1,27 @@
+{
+  "name": "mendixalexa",
+  "version": "1.0.0",
+  "description": "Implementation of Alexa Skill for Mendix",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simo101/MendixAlexa.git"
+  },
+  "keywords": [
+    "Mendix",
+    "Alexa"
+  ],
+  "author": "Simon Black",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simo101/MendixAlexa/issues"
+  },
+  "homepage": "https://github.com/simo101/MendixAlexa#readme"
+}
